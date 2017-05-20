@@ -49,10 +49,14 @@ Fix php issue with previous chat
 
 
 ****************
-* C9 Git Guide *
-****************
-
+ C9 Git Guide 
+ 
+```
 git add .
 git commit -am "commit notes"
 git push origin master
+```
+ 
+****************
+
 
