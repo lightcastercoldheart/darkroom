@@ -1,5 +1,7 @@
 #Dark Room
 
+**********
+
 ##Contents
 
 1. Dark Room
@@ -11,8 +13,15 @@
     * AFrame
 
 
-##To do: 
-add description and storyline
+Task List
+
+- [x] Move Dark Room to React
+- [ ] Finalize Initial Game play
+- [ ] Functional Chat
+- [ ] Speech to Text on Chat
+- [ ] AFrame Integration
+- [ ] Asset Development, Management
+
 
 AFrame, Create-React-App
 
