@@ -1,15 +1,14 @@
 #Dark Room
 
-
 ##Contents
 
-    1. Dark Room
-        1. Messaging
-            * Gameplay
+1. Dark Room
+  1. Messaging
+    * Gameplay
                 
-            * Timer
-        2. Web VR
-            * AFrame
+    * Timer
+  2. Web VR
+    * AFrame
 
 
 ##To do: 
