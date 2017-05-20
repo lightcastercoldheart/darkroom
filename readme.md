@@ -1,6 +1,19 @@
-Dark Room
+#Dark Room
 
-to do: add description and storyline
+
+##Contents
+
+    1. Dark Room
+        1. Messaging
+            * Gameplay
+                
+            * Timer
+        2. Web VR
+            * AFrame
+
+
+##To do: 
+add description and storyline
 
 AFrame, Create-React-App
 
@@ -27,12 +40,11 @@ Fix php issue with previous chat
 
 
 
-************
-C9 Git Guide
+****************
+* C9 Git Guide *
+****************
 
 git add .
-
 git commit -am "commit notes"
-
 git push origin master
 
