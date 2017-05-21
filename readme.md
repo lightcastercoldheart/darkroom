@@ -1,8 +1,8 @@
-#Dark Room
+Dark Room
 
 **********
 
-##Contents
+Contents
 
 1. Dark Room
   1. Messaging
@@ -12,39 +12,27 @@
   2. Web VR
     * AFrame
 
+**********
 
 Task List
 
 - [x] Move Dark Room to React
 - [ ] Finalize Initial Game play
+- [ ] Timer Component
 - [ ] Functional Chat
 - [ ] Speech to Text on Chat
 - [ ] AFrame Integration
-- [ ] Asset Development, Management
+- [ ] Initial Asset Development, Management
+- [ ] First Version Log on Wiki
+- [ ] Management Timeline
 
+**********
 
 AFrame, Create-React-App
 
-//////////////////////////////////////////////////////////////////////
+**********
 
-To do:
-
-//Timer Component
-
-Add js Timer as separate component for app (this might fix duplicate issue with the chat display) 
- 
- 
-//Chat Component
-
-Fix php issue with previous chat
-
-
-//Readme / Wiki
-
-
-
-
-//Storyline
+Storyline
 
 
 
