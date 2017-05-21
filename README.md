@@ -7,18 +7,23 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
 
 ## Contents
 
-- [Messaging](#messaging-component)
+- [Messaging](#messaging)
   - [Speech to Text](#speech-to-text)
-- [Gameplay](#darkroom-gameplay)
-- [Timer](#timer-component)                
-- [Web VR](#web-VR)
-  - [AFrame](#Aframe)
-  - [Cardboard](#Cardboard)
-- [Story](#darkroom-story)
-  - [Riddle](#riddle-component) 
+- [Gameplay](#gameplay)
+- [Timer](#timer)                
+- [Web VR](#web-vr)
+  - [AFrame](#aframe)
+  - [Cardboard](#cardboard)
+- [Story](#story)
+  - [Riddle](#riddle) 
  
 
 ### Messaging
+
+Dark Room revolves around conversing with random strangers who are trapped with you <br>
+While you are free to talk with them or role-play based on the characters that have been randomly assigned to you, <br>
+you can also choose to solve riddles by listening to the story being narrated during the game. <br>
+Solving the riddle unlocks certain elements within the 3D environment that can be controlled by saying a specific keyword.
 
 #### Speech to Text
 
