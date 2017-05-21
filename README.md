@@ -14,9 +14,31 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
 - [Web VR](#web-VR)
   - [AFrame](#Aframe)
   - [Cardboard](#Cardboard)
+- [Story](#darkroom-story)
+  - [Riddle](#riddle-component) 
+ 
 
+### Messaging
 
-## Task List
+#### Speech to Text
+
+### Gameplay
+
+### Timer
+
+### Web VR
+
+#### AFrame
+    
+#### Cardboard
+    
+### Story
+
+#### Riddle
+
+***
+
+### Task List
 
 ### General
 
@@ -35,6 +57,7 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
 - [x] Overall Visual Language
 - [ ] Additional Illustrative Elements
 - [ ] VR Elements
+- [ ] Equirectangular background
 
 ### Interaction / Experience
 
