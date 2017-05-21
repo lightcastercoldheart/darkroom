@@ -27,6 +27,10 @@ Solving the riddle unlocks certain elements within the 3D environment that can b
 
 #### Speech to Text
 
+Dark Room uses Google's Speech to Text API to allow the translation of mic input into displayed text on screen. Instead of users hearing
+other user's voice, they will be seeing it as translated text on displayed on the environment. Fade transitions will be applied and certain
+words that relate to the keyword clue will be highlighted to aid users in solving the riddle within the timeframe.
+
 ### Gameplay
 
 ### Timer
