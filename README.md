@@ -18,12 +18,12 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
   - [Cardboard](#cardboard)
 - [Story](#story)
   - [Riddle](#riddle) 
--[Task List](#task-list)
+- [Task List](#task-list)
   - [General](#general)
-  - [Visual / UI](#visual-/-ui)
-  - [Interaction / Experience](#interaction-/-experience)
--[C9 Git Guide](#c9-git-guide)
--[Additional Resources](#additional-resources)
+  - [Visual / UI](#visual)
+  - [Interaction / Experience](#interaction)
+- [C9 Git Guide](#c9-git-guide)
+- [Additional Resources](#additional-resources)
  
 
 ### Messaging
