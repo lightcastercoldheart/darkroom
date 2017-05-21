@@ -20,10 +20,10 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
 
 ### Messaging
 
-Dark Room revolves around conversing with random strangers who are trapped with you <br>
-While you are free to talk with them or role-play based on the characters that have been randomly assigned to you, <br>
-you can also choose to solve riddles by listening to the story being narrated during the game. <br>
-Solving the riddle unlocks certain elements within the 3D environment that can be controlled by saying a specific keyword.
+Dark Room revolves around conversing with random strangers who are trapped with you while you are free to talk with them or
+role-play based on the characters that have been randomly assigned to you. You can also choose to solve riddles by listening
+to the story being narrated during the game. Solving the riddle unlocks certain elements within the 3D environment that can be
+controlled by saying a specific keyword.
 
 #### Speech to Text
 
@@ -33,7 +33,16 @@ words that relate to the keyword clue will be highlighted to aid users in solvin
 
 ### Gameplay
 
+### Initialize
+
+### Rooms
+
+Rooms are automatically created to accomodate two online users. They will be available for selection on the first thirty seconds of their creation. After that, 
+they will be buried under a list that can still be selectable until the last half of the game (2:30) where it will be hidden until the game is over
+
 ### Timer
+
+On user login, a five minute countdown starts. Once timer ends, the game is over. 
 
 ### Web VR
 
@@ -66,7 +75,7 @@ words that relate to the keyword clue will be highlighted to aid users in solvin
 - [x] Overall Visual Language
 - [ ] Additional Illustrative Elements
 - [ ] VR Elements
-- [ ] Equirectangular background
+- [ ] Equirectangular Sky
 
 ### Interaction / Experience
 
