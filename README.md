@@ -20,8 +20,8 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
   - [Riddle](#riddle) 
 - [Task List](#task-list)
   - [General](#general)
-  - [Visual / UI](#visual)
-  - [Interaction / Experience](#interaction)
+  - [Visual Design](#visual-design)
+  - [Interaction Design](#interaction-design)
 - [C9 Git Guide](#c9-git-guide)
 - [Additional Resources](#additional-resources)
  
