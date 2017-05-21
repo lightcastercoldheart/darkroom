@@ -1,3 +1,5 @@
+## Dark Room
+
 This project uses Aframe and React to deliver a time-capped role-playing messaging game in WebVR. <br>
 It is still currently in development, but a stable release will be made available at [Super Secret Banana](http://supersecretbanana.com/darkroom).
 
@@ -13,9 +15,10 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
   - [AFrame](#Aframe)
   - [Cardboard](#Cardboard)
 
-**********
 
-Task List
+## Task List
+
+### General
 
 - [x] Move Dark Room to React
 - [ ] Finalize Initial Game play
@@ -27,18 +30,21 @@ Task List
 - [ ] First Version Log on Wiki
 - [ ] Management Timeline
 
-**********
+### Visual / UI
 
-AFrame, Create-React-App
+- [x] Overall Visual Language
+- [ ] Additional Illustrative Elements
+- [ ] VR Elements
 
-**********
+### Interaction / Experience
 
-Storyline
+- [ ] Defined Storyline
+- [ ] Information Architecture for WebVR
+- [ ] Interaction breakdown
+- [ ] Riddle / Gameplay Component
 
 
-
-****************
- C9 Git Guide 
+## C9 Git Guide 
  
 ```
 git add .
@@ -46,6 +52,6 @@ git commit -am "commit notes"
 git push origin master
 ```
  
-****************
+### Additional Resources
 
 
