@@ -78,14 +78,14 @@ On user login, a five minute countdown starts. Once timer ends, the game is over
 - [ ] First Version Log on Wiki
 - [ ] Management Timeline
 
-### Visual / UI
+### Visual Design
 
 - [x] Overall Visual Language
 - [ ] Additional Illustrative Elements
 - [ ] VR Elements
 - [ ] Equirectangular Sky
 
-### Interaction / Experience
+### Interaction Design
 
 - [ ] Defined Storyline
 - [ ] Information Architecture for WebVR
