@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import aframe from 'aframe';
 import logo from './logo.svg';
 import './App.css';
 
