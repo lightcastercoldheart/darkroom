@@ -10,6 +10,8 @@ Dark Room is best viewed on Cardboard VR with headphones on for a complete immer
 - [Messaging](#messaging)
   - [Speech to Text](#speech-to-text)
 - [Gameplay](#gameplay)
+  - [Initialize](#initialize)
+  - [Rooms](#rooms)
 - [Timer](#timer)                
 - [Web VR](#web-vr)
   - [AFrame](#aframe)
@@ -33,9 +35,9 @@ words that relate to the keyword clue will be highlighted to aid users in solvin
 
 ### Gameplay
 
-### Initialize
+#### Initialize
 
-### Rooms
+#### Rooms
 
 Rooms are automatically created to accomodate two online users. They will be available for selection on the first thirty seconds of their creation. After that, 
 they will be buried under a list that can still be selectable until the last half of the game (2:30) where it will be hidden until the game is over
