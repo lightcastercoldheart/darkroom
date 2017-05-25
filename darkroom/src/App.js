@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import 'aframe';
 import logo from './logo.svg';
 import './App.css';
+import './Chat.js';
 
 class App extends Component {
   render() {
@@ -11,6 +12,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Dark Room</h2>
         </div>
+        
+        <Chat/>
         
       </div>
     );
